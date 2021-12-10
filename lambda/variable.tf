@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "profile" {
-  default = "devops_k8s_cicd"
+  default = "devops_text"
 }
 
 variable "lambda_iam_name" {
